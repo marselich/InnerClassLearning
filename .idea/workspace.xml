@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03d3fa00-49fb-4821-8a2d-e334d8bf2d4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InnerClassLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/sinergy/anonymousinner/ErrorMonitoringModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/sinergy/anonymousinner/GeneralIndicatorMonitoringModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/sinergy/anonymousinner/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/sinergy/anonymousinner/MonitoringSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/sinergy/anonymousinner/SecurityModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/sinergy/innernested/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/sinergy/innernested/Parcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/sinergy/methodinner/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/sinergy/methodinner/Sample.java" afterDir="false" />
-    </list>
+    <list default="true" id="03d3fa00-49fb-4821-8a2d-e334d8bf2d4a" name="Changes" comment="inner class learning commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +16,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="01b08e9941c704caa8893adf21c47b3eb4266ffc" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -87,6 +76,9 @@
       <list>
         <item itemvalue="Application.ru.sinergy.anonymousinner.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ru.sinergy.anonymousinner.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ru.sinergy.anonymousinner.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -99,6 +91,14 @@
       <option name="presentableId" value="Default" />
       <updated>1656663546427</updated>
     </task>
+    <task id="LOCAL-00001" summary="inner class learning commit">
+      <created>1656668778109</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656668778109</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,5 +111,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="inner class learning commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="inner class learning commit" />
   </component>
 </project>
