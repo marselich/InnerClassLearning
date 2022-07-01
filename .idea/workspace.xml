@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03d3fa00-49fb-4821-8a2d-e334d8bf2d4a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InnerClassLearning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/sinergy/anonymousinner/ErrorMonitoringModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/sinergy/anonymousinner/GeneralIndicatorMonitoringModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/sinergy/anonymousinner/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/sinergy/anonymousinner/MonitoringSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/sinergy/anonymousinner/SecurityModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/sinergy/innernested/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/sinergy/innernested/Parcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/sinergy/methodinner/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/sinergy/methodinner/Sample.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BKnFrog1J5avX43khiuDXaclF3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ru.sinergy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ru.sinergy.anonymousinner.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.sinergy.methodinner.Main" />
+      <module name="InnerClassLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.sinergy.methodinner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ru.sinergy.anonymousinner.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.sinergy.anonymousinner.Main" />
+      <module name="InnerClassLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.sinergy.anonymousinner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ru.sinergy.anonymousinner.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03d3fa00-49fb-4821-8a2d-e334d8bf2d4a" name="Changes" comment="" />
+      <created>1656663546427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656663546427</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
