@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03d3fa00-49fb-4821-8a2d-e334d8bf2d4a" name="Changes" comment="inner class learning commit" />
+    <list default="true" id="03d3fa00-49fb-4821-8a2d-e334d8bf2d4a" name="Changes" comment="added anonymous package with anon classes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/sinergy/anonymousinner/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/sinergy/anonymousinner/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656668778109</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added anonymous package with anon classes">
+      <created>1656669447657</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656669447657</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +124,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="inner class learning commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="inner class learning commit" />
+    <MESSAGE value="added anonymous package with anon classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="added anonymous package with anon classes" />
   </component>
 </project>
